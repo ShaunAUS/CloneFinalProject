@@ -21,6 +21,7 @@ Backend
 - Spring Data JPA
 - Spring Security
 - AWS-RDS
+- ThymeLeafe
 
 Frontend
 
