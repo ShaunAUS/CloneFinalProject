@@ -95,7 +95,7 @@ addAttribute로 넘어온 검색 결과를 Thymeleaf 반복문 each로 출력
 **협업방식**
 
 1. 버전관리
-<img width="724" alt="ddd" src="https://user-images.githubusercontent.com/86937655/139570140-9d190a6c-3b96-4acb-b4b2-10eb2d35af1b.PNG">
+<img width="384" alt="ddd" src="https://user-images.githubusercontent.com/86937655/139570140-9d190a6c-3b96-4acb-b4b2-10eb2d35af1b.PNG">
  
 3. 각자 맡은 기능 분석 및 ERD 생성 후 통합
 <img width="384" alt="Happve-ERD" src="https://user-images.githubusercontent.com/86937655/139569831-c3170b75-18ff-4cdc-a550-68ce045cd26b.png">
