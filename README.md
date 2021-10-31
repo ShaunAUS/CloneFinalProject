@@ -92,6 +92,19 @@ addAttribute로 넘어온 검색 결과를 Thymeleaf 반복문 each로 출력
 - DB테이블을 따로 나누지 않은 중복 비효율성
 - 아직 제작을 완료하지 못한 상세 페이지 마무리
 
+**협업방식**
+
+1. 주제 및 요구사항 정리
+2. 각자 맡은 기능 분석 및 ERD 생성 후 통합
+<img width="384" alt="Happve-ERD" src="https://user-images.githubusercontent.com/86937655/139569831-c3170b75-18ff-4cdc-a550-68ce045cd26b.png">
+
+4. 스케줄 정하기
+<img width="384" alt="Capture" src="https://user-images.githubusercontent.com/86937655/139569573-49509f01-3993-43c2-94e0-5ad9006332d0.PNG">
+5.개발 중간중간 문제에대한 팀원들과의 의논
+<img width="384" alt="문제제시" src="https://user-images.githubusercontent.com/86937655/139569873-9ed86c7c-b620-4123-8af6-b14fdf71ec24.PNG">
+
+
+
 **느낀점**
 
 프로젝트 시작 전 나름 책도 사서 따로 공부하고 열심히 해서 자신만만한 상태였다. 하지만 역시 배우기만 하고 활용/경험이 없다보니 실전에서는 활용을 잘 하지 못하였다. 내가 알고 이해했던 정보들도 틀린 정보들도 많았고 잔 실수 도 너무 많았다. 대표적인 문제로 Table mapping 문제였다. 이 때 당시에 팀을 정하고, 요구사항,일정정리 등등 을 하고 이제 각자 할 기능들을 맡기 시작했는데 이때 당시에는 따로사서 풀더 JPA공부책에서 마침 검색파트를 하고있어서 자신 있게 검색을 하겠다고 했다.
