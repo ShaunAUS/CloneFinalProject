@@ -1,6 +1,7 @@
 # FinalProject
-
 # **Happve Project(2020/08/02 ~2020/08/30)**
+
+(파이널 프로젝트 클론 버전입니다. 원본버전 ->https://github.com/ShaunAUS/HappVeProject)
 
 
 
